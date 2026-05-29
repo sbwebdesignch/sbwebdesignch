@@ -55,11 +55,10 @@ Hochwertige Websites für Unternehmen & Selbstständige — individuell · pers�
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d0c06?style=for-the-badge&logo=typescript&logoColor=c9a84c)
 ![Next.js](https://img.shields.io/badge/Next.js-0d0c06?style=for-the-badge&logo=next.js&logoColor=c9a84c)
 
-### Design &amp; CMS
-![Figma](https://img.shields.io/badge/Figma-0d0c06?style=for-the-badge&amp;logo=figma&amp;logoColor=c9a84c)
-![WordPress](https://img.shields.io/badge/WordPress-0d0c06?style=for-the-badge&amp;logo=wordpress&amp;logoColor=c9a84c)
-![Photoshop](https://img.shields.io/badge/Photoshop-0d0c06?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=c9a84c)
-![Illustrator](https://img.shields.io/badge/Illustrator-0d0c06?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=c9a84c)
+### Design & CMS
+![Figma](https://img.shields.io/badge/Figma-0d0c06?style=for-the-badge&logo=figma&logoColor=c9a84c)
+![WordPress](https://img.shields.io/badge/WordPress-0d0c06?style=for-the-badge&logo=wordpress&logoColor=c9a84c)
+![Framer](https://img.shields.io/badge/Framer-0d0c06?style=for-the-badge&logo=framer&logoColor=c9a84c)
 
 ### Backend &amp; Tools
 ![Node.js](https://img.shields.io/badge/Node.js-0d0c06?style=for-the-badge&amp;logo=node.js&amp;logoColor=c9a84c)
