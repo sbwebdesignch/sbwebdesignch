@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" width="100%" alt="S&amp;B Webdesigns"/>
+<img src="banner.png" width="100%" alt="S&amp;B Webdesigns Banner"/>
 
 <br/>
 
