@@ -32,11 +32,12 @@ Hochwertige Websites für Unternehmen & Selbstständige — individuell · pers�
 
 <div align="center">
 
-| 🌐 **Webdesign** | 🎨 **Branding** | ⚡ **Performance** | 🔧 **Support** |
+| 🌐 **Webdesign** | 💻 **Webdevelopment** | ⚡ **SEO & Performance** | 🔧 **Hosting & Betreuung** |
 |---|---|---|---|
-| Massgeschneiderte Websites | Logo & Corporate Design | Schnelle Ladezeiten | Hosting & Wartung |
-| Responsive & Mobile-First | Farb- & Typografie-System | Google SEO | SSL & Sicherheit |
-| CMS-Integration | Visuelle Identität | Core Web Vitals | Persönlicher Support |
+| Individuelles Design (UI/UX) | Saubere Umsetzung | Technisches SEO | Updates & Wartung |
+| Klare Struktur | Schnelle Ladezeiten | Performance Optimierung | Änderungen nach Wunsch |
+| Responsive | Moderne Technik | Saubere Struktur | Technischer Support |
+| ⏱ 1–2 Wochen | ⏱ 1–3 Wochen | ⏱ laufend / nach Bedarf | ⏱ monatlich / flexibel |
 
 </div>
 
