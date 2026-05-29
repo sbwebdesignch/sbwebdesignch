@@ -3,14 +3,14 @@
 <img src="banner.png" width="100%" alt="S&amp;B Webdesigns Banner"/>
 
 <br/>
+<br/>
+<br/>
 
-[![Website](https://img.shields.io/badge/%F0%9F%8C%90%20sbwebdesign.ch-Visit-c9a84c?style=flat-square&amp;labelColor=0d0c06&amp;color=0d0c06&amp;logoColor=c9a84c)](https://sbwebdesign.ch)
-&nbsp;
-[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20info%40sbwebdesign.ch-Contact-c9a84c?style=flat-square&amp;labelColor=0d0c06&amp;color=0d0c06)](mailto:info@sbwebdesign.ch)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/%40sbwebdesign__ch-Instagram-c9a84c?style=flat-square&amp;logo=instagram&amp;logoColor=c9a84c&amp;labelColor=0d0c06&amp;color=0d0c06)](https://instagram.com/sbwebdesign_ch)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/S%26B%20Webdesigns-LinkedIn-c9a84c?style=flat-square&amp;logo=linkedin&amp;logoColor=c9a84c&amp;labelColor=0d0c06&amp;color=0d0c06)](https://linkedin.com/company/sbwebdesign-ch)
+
+[![Website](https://img.shields.io/badge/Website-sbwebdesign.ch-c9a84c?style=for-the-badge&logo=safari&logoColor=c9a84c&labelColor=0d0c06)](https://sbwebdesign.ch)
+[![Email](https://img.shields.io/badge/Email-info%40sbwebdesign.ch-c9a84c?style=for-the-badge&logo=gmail&logoColor=c9a84c&labelColor=0d0c06)](mailto:info@sbwebdesign.ch)
+[![Instagram](https://img.shields.io/badge/Instagram-%40sbwebdesign__ch-c9a84c?style=for-the-badge&logo=instagram&logoColor=c9a84c&labelColor=0d0c06)](https://instagram.com/sbwebdesign_ch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-S%26B%20Webdesigns-c9a84c?style=for-the-badge&logo=linkedin&logoColor=c9a84c&labelColor=0d0c06)](https://linkedin.com/company/sbwebdesign-ch)
 
 </div>
 
@@ -20,16 +20,9 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   Wir machen aus Besuchern Kunden.                         │
-│                                                             │
-│   Hochwertige Websites für Unternehmen &amp; Selbstständige —  │
-│   individuell · persönlich · zuverlässig                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+***„Wir machen aus Besuchern Kunden."***
+
+Hochwertige Websites für Unternehmen & Selbstständige — individuell · persönlich · zuverlässig
 
 </div>
 
@@ -39,10 +32,10 @@
 
 <div align="center">
 
-| &nbsp;&nbsp;🌐 Webdesign&nbsp;&nbsp; | &nbsp;&nbsp;🎨 Branding&nbsp;&nbsp; | &nbsp;&nbsp;⚡ Performance&nbsp;&nbsp; | &nbsp;&nbsp;🔧 Support&nbsp;&nbsp; |
-|:---:|:---:|:---:|:---:|
-| Massgeschneiderte Websites | Logo &amp; Corporate Design | Schnelle Ladezeiten | Hosting &amp; Wartung |
-| Responsive &amp; Mobile-First | Farb- &amp; Typografie-System | Google SEO | SSL &amp; Sicherheit |
+| 🌐 **Webdesign** | 🎨 **Branding** | ⚡ **Performance** | 🔧 **Support** |
+|---|---|---|---|
+| Massgeschneiderte Websites | Logo & Corporate Design | Schnelle Ladezeiten | Hosting & Wartung |
+| Responsive & Mobile-First | Farb- & Typografie-System | Google SEO | SSL & Sicherheit |
 | CMS-Integration | Visuelle Identität | Core Web Vitals | Persönlicher Support |
 
 </div>
