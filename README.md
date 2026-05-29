@@ -60,11 +60,11 @@ Hochwertige Websites für Unternehmen & Selbstständige — individuell · pers�
 ![WordPress](https://img.shields.io/badge/WordPress-0d0c06?style=for-the-badge&logo=wordpress&logoColor=c9a84c)
 ![Framer](https://img.shields.io/badge/Framer-0d0c06?style=for-the-badge&logo=framer&logoColor=c9a84c)
 
-### Backend &amp; Tools
-![Node.js](https://img.shields.io/badge/Node.js-0d0c06?style=for-the-badge&amp;logo=node.js&amp;logoColor=c9a84c)
-![PHP](https://img.shields.io/badge/PHP-0d0c06?style=for-the-badge&amp;logo=php&amp;logoColor=c9a84c)
-![MySQL](https://img.shields.io/badge/MySQL-0d0c06?style=for-the-badge&amp;logo=mysql&amp;logoColor=c9a84c)
-![Git](https://img.shields.io/badge/Git-0d0c06?style=for-the-badge&amp;logo=git&amp;logoColor=c9a84c)
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-0d0c06?style=for-the-badge&logo=node.js&logoColor=c9a84c)
+![MySQL](https://img.shields.io/badge/MySQL-0d0c06?style=for-the-badge&logo=mysql&logoColor=c9a84c)
+![Git](https://img.shields.io/badge/Git-0d0c06?style=for-the-badge&logo=git&logoColor=c9a84c)
+![Java](https://img.shields.io/badge/Java-0d0c06?style=for-the-badge&logo=openjdk&logoColor=c9a84c)
 
 </div>
 
