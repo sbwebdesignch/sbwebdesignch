@@ -48,12 +48,12 @@ Hochwertige Websites für Unternehmen & Selbstständige — individuell · pers�
 <div align="center">
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-0d0c06?style=for-the-badge&amp;logo=html5&amp;logoColor=c9a84c)
-![CSS3](https://img.shields.io/badge/CSS3-0d0c06?style=for-the-badge&amp;logo=css3&amp;logoColor=c9a84c)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0c06?style=for-the-badge&amp;logo=javascript&amp;logoColor=c9a84c)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0c06?style=for-the-badge&amp;logo=typescript&amp;logoColor=c9a84c)
-![React](https://img.shields.io/badge/React-0d0c06?style=for-the-badge&amp;logo=react&amp;logoColor=c9a84c)
-![Next.js](https://img.shields.io/badge/Next.js-0d0c06?style=for-the-badge&amp;logo=next.js&amp;logoColor=c9a84c)
+![HTML](https://img.shields.io/badge/HTML-0d0c06?style=for-the-badge&logo=html5&logoColor=c9a84c)
+![CSS](https://img.shields.io/badge/CSS-0d0c06?style=for-the-badge&logoColor=c9a84c)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0c06?style=for-the-badge&logo=javascript&logoColor=c9a84c)
+![React](https://img.shields.io/badge/React-0d0c06?style=for-the-badge&logo=react&logoColor=c9a84c)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0c06?style=for-the-badge&logo=typescript&logoColor=c9a84c)
+![Next.js](https://img.shields.io/badge/Next.js-0d0c06?style=for-the-badge&logo=next.js&logoColor=c9a84c)
 
 ### Design &amp; CMS
 ![Figma](https://img.shields.io/badge/Figma-0d0c06?style=for-the-badge&amp;logo=figma&amp;logoColor=c9a84c)
