@@ -79,22 +79,6 @@
 
 ---
 
-## `◈` Statistiken
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sbwebdesignch&show_icons=true&hide_border=true&bg_color=0d0c06&title_color=c9a84c&icon_color=8a7a5a&text_color=e8dfc8&ring_color=c9a84c" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbwebdesignch&layout=compact&hide_border=true&bg_color=0d0c06&title_color=c9a84c&text_color=e8dfc8" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sbwebdesignch&theme=dark&hide_border=true&background=0d0c06&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideNums=e8dfc8&currStreakNum=e8dfc8&sideLabels=8a7a5a&dates=5a4e32" />
-
-</div>
-
----
-
 ## `◈` Kontakt
 
 <div align="center">
